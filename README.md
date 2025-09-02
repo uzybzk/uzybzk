@@ -9,21 +9,12 @@ I'm a backend developer passionate about building scalable systems with **Go** a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📊 GitHub Stats
-
-![uzybzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzybzk&show_icons=true&theme=dark)
-
 ## 🚀 What I'm Working On
 
 - 🔭 Building microservices with Go and Rust
 - 🌱 Learning advanced systems programming
 - 👯 Open to collaborating on backend projects
 - 💬 Ask me about Go, Rust, Docker, and distributed systems
-
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/uzybzk)
-- 📧 Email: uzybzk@example.com
 
 ## ⚡ Fun Fact
 
